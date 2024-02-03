@@ -27,7 +27,6 @@ import Button from 'primevue/button';
         <a href="https://github.com/yuneKim" target="_blank"
           ><Button icon="pi pi-github" label="GitHub"
         /></a>
-        <!-- need resume -->
         <a href="bug-wars-client/resumes/Yune_Kim_Resume.pdf" download
           ><Button icon="pi pi-paperclip" label="Resume"
         /></a>
